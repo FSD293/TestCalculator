@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\TestCalculator\bin\Debug\TestCalculator.exe.config
+C:\Users\User\source\repos\TestCalculator\bin\Debug\TestCalculator.exe
+C:\Users\User\source\repos\TestCalculator\bin\Debug\TestCalculator.pdb
+C:\Users\User\source\repos\TestCalculator\obj\Debug\TestCalculator.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TestCalculator\obj\Debug\TestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestCalculator\obj\Debug\TestCalculator.exe
+C:\Users\User\source\repos\TestCalculator\obj\Debug\TestCalculator.pdb
